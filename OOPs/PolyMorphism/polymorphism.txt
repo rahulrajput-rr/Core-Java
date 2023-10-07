@@ -1,0 +1,7 @@
+An essential idea in Java is polymorphism, which enables objects of various classes to be handled as though they were objects of the same class.
+Polymorphism is supported by object-oriented programming languages (OOPs), which makes them strong and adaptable for creating complicated applications.
+The Greek words ‘poly’ and ‘morph,’ meaning ‘many’ and ‘forms,’ respectively.
+ This makes the code more adaptable and reusable by enabling the usage of a single interface for several object kinds.
+There are two types of polymorphism in Java:
+5.1. compile-time polymorphism.
+5.2. runtime polymorphism.
