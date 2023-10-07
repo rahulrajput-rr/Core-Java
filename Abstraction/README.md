@@ -14,7 +14,8 @@ An abstract class must be inherited from another class in order to access it, ma
 # Abstract method: 
 A method that is abstract has no body and is only applicable to abstract classes. An inherited from subclass provides the body.
 
-![image](https://github.com/rahulrajput-rr/Core-Java/assets/104721504/ad61b5f3-38fe-44a3-8765-527974a553ed)
+![image](https://github.com/rahulrajput-rr/Core-Java/assets/104721504/688de6ee-5a0b-4c60-98f0-5ae9d9580b2e)
+
 
 
 
