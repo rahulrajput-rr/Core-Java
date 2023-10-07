@@ -8,8 +8,9 @@
 
 3. Interfaces and abstract classes help to accomplish abstraction. We can accomplish 100% abstraction by using interfaces.
 
-#Abstract class: An abstract class must be inherited from another class in order to access it, making it a restricted class that cannot be used to create objects.
-#Abstract method: A method that is abstract has no body and is only applicable to abstract classes. An inherited from subclass provides the body.
+# Abstract class: An abstract class must be inherited from another class in order to access it, making it a restricted class that cannot be used to create objects.
+
+# Abstract method: A method that is abstract has no body and is only applicable to abstract classes. An inherited from subclass provides the body.
 
 
 
